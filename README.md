@@ -1,7 +1,8 @@
-# 👋 你好，我是旋风！ Welcome to my homepage
+# 您好，我是旋风！ 欢迎来到我的主页
+# Hello! I'm XVI-Tower. Welcome to my homepage.
 
-🎮 独立游戏开发者 | Unity + C#  
-🌌 RimWorld 社区 Modder
+🎮 独立游戏开发者 |Idie Game Developer | Unity + C#  
+🌌 《边缘世界》社区内容创作者 | 'Rimwolrd' modder
 
 ## 🛠 技术栈 / Tech Stack
 
