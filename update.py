@@ -22,6 +22,7 @@ content = f"""
 
 🎮 独立游戏开发者 |Idie Game Developer | Unity + C#  
 🌌 《边缘世界》社区内容创作者&教程作者 | 'Rimwolrd' modder & guider
+
 🎓 厦门大学 电子信息科学与技术系 2024级本科生 | XMU.School of Electronic Science and Engineering 
 
 ## 🛠 技术栈 / Tech Stack
