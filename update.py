@@ -6,9 +6,9 @@ hour = (datetime.utcnow().hour + 8) % 24
 if 5 <= hour < 11:
     greeting = "☀️ 早上好！又是新的一天"
 elif 11 <= hour < 13:
-    greeting = "🍜 中午好！别忘了休息"
+    greeting = "🍜 中午好！不考虑休息一下？"
 elif 13 <= hour < 18:
-    greeting = "🌤 下午好呀！欢迎来到我的主页"
+    greeting = "🌤 下午好呀！干劲十足呢"
 elif 18 <= hour < 23:
     greeting = "🌙 晚上好呀！今天过得怎么样？"
 else:
@@ -16,7 +16,7 @@ else:
 
 content = f"""
 
-{greeting}
+# {greeting}
 # 您好，我是旋风！ 欢迎来到我的主页
 # Hello! I'm XVI-Tower. Welcome to my homepage.
 
